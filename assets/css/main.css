@@ -3,9 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 
 /*
-	Identity by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	ADROITADORKHAN
 */
 
 /* Reset */
@@ -169,7 +167,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #0099ff;
 		}
 
 	strong, b {
@@ -303,7 +301,7 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ff7496;
+			border-color: #0099ff;
 		}
 
 	.select-wrapper {
