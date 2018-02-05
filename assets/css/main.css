@@ -402,13 +402,13 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			color: #ff7496;
+			color: #0099ff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #ff7496;
+			border-color: #0099ff;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -544,7 +544,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						text-shadow: 1.25px 0px 0px #0099ff, -1.25px 0px 0px #0099ff, 0px 1.25px 0px #0099ff, 0px -1.25px 0px #0099ff;
 					}
 
 					ul.icons li a:before {
@@ -560,7 +560,7 @@
 					}
 
 					ul.icons li a:hover {
-						border-color: #ff7496;
+						border-color: #0099ff;
 					}
 
 			@media screen and (max-width: 480px) {
@@ -634,8 +634,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #0099ff;
+			color: #0099ff !important;
 		}
 
 		input[type="submit"].icon,
