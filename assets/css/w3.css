@@ -229,3 +229,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
+.instagram,.hover-instagram:hover{color:#fff!important;background-color:#fb3958!important}
+.border-instagram,.hover-border-instagram:hover{border-color:#fb3958!important}
+.pinterest,.hover-pinterest:hover{color:#fff!important;background-color:#C92228!important}
+.border-pinterest,.hover-border-pinterest:hover{border-color:#C92228!important}
+.github,.hover-github:hover{color:#fff!important;background-color:#333!important}
+.border-github,.hover-border-github:hover{border-color:#333!important}
+.telegram,.hover-telegram:hover{color:#fff!important;background-color:#0088cc!important}
+.border-telegram,.hover-border-telegram:hover{border-color:#0088cc!important}
