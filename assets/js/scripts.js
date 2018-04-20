@@ -358,7 +358,7 @@ function initMap() {
 	}]
 
 	var mapOptions = {
-		zoom: 18,
+		zoom: 14,
 		center: myLatlng,
 		mapTypeControl: false,
 		disableDefaultUI: true,
